@@ -14,8 +14,7 @@
 ---
 
 ## Featured projects
-- **ReadSage** — One-line description of what it does  
-  Repo: https://github.com/g0dange/ReadSage
+
 
 ---
 
