@@ -36,7 +36,7 @@
 
 ## Contact
 - 📫 Email: bevys@gmail.com
-- 💬 Discord: ____
+- 💬 Discord:abhorsen7611
 
 ---
 
